@@ -89,4 +89,4 @@ ENV/
 .ropeproject
 
 ## local DB
-.sqlite3
+*.sqlite3
